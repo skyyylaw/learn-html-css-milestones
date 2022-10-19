@@ -225,13 +225,13 @@ Building on `basic-tags.html`, you should be able to create tables of varying si
 
 In `basic-css.html`, you should be able to demonstrate the following html inside the body to use the above CSS:
 
-- [ ] Selectors...
-  - [ ] ✏️ Type / tag selectors
-  - [ ] ✏️ Class selectors
-  - [ ] ✏️ ID selectors
-- [ ] Combinators...
-  - [ ] ✏️ Descendant combinator
-  - [ ] ✏️ Child combinator
+- [√] Selectors...
+  - [√] ✏️ Type / tag selectors
+  - [√] ✏️ Class selectors
+  - [√] ✏️ ID selectors
+- [√] Combinators...
+  - [√] ✏️ Descendant combinator
+  - [√] ✏️ Child combinator
 
 ### Styling A Page
 
@@ -251,9 +251,9 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 
 ✏️ You should be able to create a new file called `index.html` and do the following:
 
-- [ ] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
-  - [ ] ✏️ Find and add the Bootstrap starter template to `index.html`
-  - [ ] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
+- [√] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
+  - [√] ✏️ Find and add the Bootstrap starter template to `index.html`
+  - [√] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
   ```
 	<div class="container-fluid">
 		<div class="row">
@@ -261,7 +261,7 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 		</div>
 	</div>
   ```  
-  - [ ] ✏️ Add a new "regular width" section using `.container` underneath the full width section
+  - [√] ✏️ Add a new "regular width" section using `.container` underneath the full width section
   ```
   <div class="container">
 	  <div class="row">
@@ -285,8 +285,8 @@ You should be able to...
 
 - [ ] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
 - [ ] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] ✏️ Replace this: **[https://github.com/*username*/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones)** with your Github.com/repository url.
-- [ ] ✏️ Replace this: **[https://*username*.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones)** with your repo's Github Page url.
+- [ ] ✏️ Replace this: **[https://github.com/skyyylaw/learn-html-css-milestones](https://github.com/skyyylaw/learn-html-css-milestones)** with your Github.com/repository url.
+- [ ] ✏️ Replace this: **[https://skyyylaw.github.io/learn-html-css-milestones/](https://skyyylaw.github.io/learn-html-css-milestones/)** with your repo's Github Page url.
 
 
 
