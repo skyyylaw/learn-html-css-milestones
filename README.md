@@ -157,41 +157,41 @@ Each section should be contained in its own `<section>` tag. Do not use any CSS 
 
 You should be able to create sections that demonstrate...
 
-- [ ] The following block-level text containers:
-  - [ ] ✏️ The paragraph `<p>` tag
-  - [ ] ✏️ The blockquote `<blockquote>` tag
-  - [ ] ✏️ The pre-formatted text `<pre>` tag
-- [ ] Inline text styling using the following tags:
-  - [ ] ✏️ `<em>` and `<i>`
-  - [ ] ✏️ `<strong>` and `<b>`
-  - [ ] ✏️ `<code>`
-- [ ] ✏️ The `<a>` tag
-- [ ] ✏️ The `<img>` tag
-- [ ] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
+- [√] The following block-level text containers:
+  - [√] ✏️ The paragraph `<p>` tag
+  - [√] ✏️ The blockquote `<blockquote>` tag
+  - [√] ✏️ The pre-formatted text `<pre>` tag
+- [√] Inline text styling using the following tags:
+  - [√] ✏️ `<em>` and `<i>`
+  - [√] ✏️ `<strong>` and `<b>`
+  - [√] ✏️ `<code>`
+- [√] ✏️ The `<a>` tag
+- [√] ✏️ The `<img>` tag
+- [√] ✏️ The different header tags `<h1>`, `<h2>`, `<h3>`, etc.
 
 ### Lists
 
 Building on `basic-tags.html`, you should be able to do the following:
 
-- [ ] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
-- [ ] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
-- [ ] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
-- [ ] ✏️ Nest lists within each other
+- [√] ✏️ Create multiple unordered lists using the `<ul>` and `<li>` tags
+- [√] ✏️ Create multiple ordered lists using the `<ol>` and `<li>` tags
+- [√] ✏️ Include other HTML inside the list item (`<li>`) tags, e.g., paragraphs, images, links, etc.
+- [√] ✏️ Nest lists within each other
 
 ### Tables
 
 Building on `basic-tags.html`, you should be able to create tables of varying sizes:
 
-- [ ] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
-- [ ] ✏️ Add headings using the `<th>` tag
-- [ ] ✏️ Create two more tables of different dimensions
+- [√] ✏️ Create a 3x3 table using the `<table>`, `<tr>`, and `<td>` tags
+- [√] ✏️ Add headings using the `<th>` tag
+- [√] ✏️ Create two more tables of different dimensions
 
 ### Multimedia
 
 ✏️ Create a page named `basic-multimedia.html` in which you:
 
-- [ ] ✏️ Use the `<video>` tag to embed one or more videos
-- [ ] ✏️ Use the `<audio>` tag to embed one or more audio clips
+- [√] ✏️ Use the `<video>` tag to embed one or more videos
+- [√] ✏️ Use the `<audio>` tag to embed one or more audio clips
 
 
 
