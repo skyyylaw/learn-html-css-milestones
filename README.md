@@ -140,13 +140,13 @@ Let's make sure we have the basic structure of an HTML page down. Don't worry to
 
 In `basic-snippet.html`, you should be able to:
 
-- [ ] ✏️ Name the tags in the snippet
-- [ ] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
-- [ ] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
-- [ ] ✏️ Explain the relationship between `<p>` and `</p>`
-- [ ] ✏️ List some of the attribute names on the `<a>` tag
-- [ ] ✏️ For each attribute on the `<a>` tag, name its value
-- [ ] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
+- [√] ✏️ Name the tags in the snippet
+- [√] ✏️ Link to 2-3 online references that describe each tag, give examples, etc.
+- [√] ✏️ Describe the relationship between the tags in terms of nesting ("X is a child of Y")
+- [√] ✏️ Explain the relationship between `<p>` and `</p>`
+- [√] ✏️ List some of the attribute names on the `<a>` tag
+- [√] ✏️ For each attribute on the `<a>` tag, name its value
+- [√] ✏️ For each attribute/value pair on the `<a>` tag, describe its purpose and effect
 
 
 ### Basic Tags
