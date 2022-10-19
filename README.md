@@ -251,9 +251,9 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 
 ✏️ You should be able to create a new file called `index.html` and do the following:
 
-- [ ] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
-  - [ ] ✏️ Find and add the Bootstrap starter template to `index.html`
-  - [ ] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
+- [√] Implement a CSS framework like [Bootstrap](https://getbootstrap.com/)
+  - [√] ✏️ Find and add the Bootstrap starter template to `index.html`
+  - [√] ✏️ Add a "full width" section using `.container-fluid` inside the top of `<body></body>` element
   ```
 	<div class="container-fluid">
 		<div class="row">
@@ -261,7 +261,7 @@ In `basic-css.html`, you should be able to demonstrate the following html inside
 		</div>
 	</div>
   ```  
-  - [ ] ✏️ Add a new "regular width" section using `.container` underneath the full width section
+  - [√] ✏️ Add a new "regular width" section using `.container` underneath the full width section
   ```
   <div class="container">
 	  <div class="row">
